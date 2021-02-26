@@ -9,7 +9,7 @@
 Summary:	A port of the serialize and unserialize functions of php to python
 Name:		python-%{pypi_name}
 Version:	1.3
-Release:	3
+Release:	4
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://pypi.debian.net/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
